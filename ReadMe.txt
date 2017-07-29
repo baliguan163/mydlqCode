@@ -1,6 +1,6 @@
-ÍøÖ·:
+ï»¿ç½‘å€:
 http://git.rockchip.com.cn:3000/
 
 
-rk3066´¦ÀíÆ÷
+rk3066å¤„ç†å™¨
 git clone https://github.com/omegamoon/rockchip-rk30xx-mk808.git
